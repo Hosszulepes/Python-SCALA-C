@@ -4,6 +4,10 @@
 
 ## Next steps:
 
-- [ ] Hello World Python
-- [ ] Hello World Scala
-- [ ] Hello World C#
+- [ ] How to run?
+
+## Done:
+
+- [x] Hello World Python
+- [x] Hello World Scala
+- [x] Hello World C#
